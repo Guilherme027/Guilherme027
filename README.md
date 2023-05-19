@@ -24,7 +24,7 @@
     <a href = "www.linkedin.com/in/guilherme-dos-santos-souza-99a714264" target="_blank">
       <img width="40" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/tailonbrandini/" target="_blank">
+    <a href = "https://www.instagram.com/guilhermesantoszx/" target="_blank">
       <img width="40" src="instagram.png">
     </a>
 </div>
