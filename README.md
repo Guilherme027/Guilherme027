@@ -1,12 +1,11 @@
-## Opaaa, Táilon Aqui!
+## Opaaa, Guilherme Santos Aqui!
 
 <div>
-  <a href= "https://github.com/TailonBrandini">
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=TailonBrandini&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TailonBrandini&layout=compact&langs_count=16&theme=react"/>
+  <a href= "https://github.com/Guilherme027">
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme027&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img align="right" height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme027&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -19,17 +18,14 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-  <a href = "mailto: tailoncb@hotmail.com">
-      <img width="21.5%" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  <a href = "mailto: guilherme_santtosz@hotmail.com">
+      <img width="40" src="outlook.svg">
     </a>
-    <a href = "mailto: tailoncb@hotmail.com">
-      <img width="10%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href = "www.linkedin.com/in/guilherme-dos-santos-souza-99a714264" target="_blank">
+      <img width="40" src="linkedin.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/t%C3%A1ilon-brandini-61734225a/" target="_blank">
-      <img width="12.5%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href = "https://www.instagram.com/tailonbrandini/" target="_blank">
-      <img width="14%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <a href = "https://www.instagram.com/guilhermesantoszx/" target="_blank">
+      <img width="40" src="instagram.png">
     </a>
 </div>
   
