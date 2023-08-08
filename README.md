@@ -23,7 +23,7 @@
   <a href = "mailto: guilherme_santtosz@hotmail.com">
       <img width="40" src="outlook.svg">
     </a>
-    <a href = "www.linkedin.com/in/guilherme-dos-santos-souza-99a714264" target="_blank">
+    <a href = "www.linkedin.com/in/guilherme-dos-santos-souza-99a714264/" target="_blank">
       <img width="40" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/guilhermesantoszx/" target="_blank">
